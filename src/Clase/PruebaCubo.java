@@ -10,7 +10,7 @@ public class PruebaCubo {
         alto = 10;
         ancho = 23;
         profundo = 40;
-        b1 = new Cubo (ancho,alto,profundo);
+        b1 = new Cubo (ancho,alto,profundo); 
         System.out.println("el volumen del cubo en cm: "+b1.CalculoCubo());
         
     }
