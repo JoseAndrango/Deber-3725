@@ -13,7 +13,7 @@ public class Cubo {
     }
 
     public Cubo() {
-        System.out.println("Deber del Cubo");
+        System.out.println("ingrese los lados del cubo");
     }
     public int CalculoCubo(){
         int cubo1 = (ancho * alto * profundo) ;
